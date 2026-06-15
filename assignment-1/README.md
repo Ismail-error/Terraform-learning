@@ -57,19 +57,19 @@ terraform apply
 
 Terraform apply success shows successful provisioning:
 
-![Terraform Apply Success](screenshots/1-terraform-apply-success.png)
+![Terraform Apply Success](screenshots/1-terraform-apply-success.PNG)
 
 EC2 instance running confirms the server is active:
 
-![EC2 Instance Running](screenshots/2-ec2-instance-running.png)
+![EC2 Instance Running](screenshots/2-ec2-instance-running.PNG)
 
 Security group rules confirm correct network access:
 
-![Security Group Rules](screenshots/3-security-group-rules.png)
+![Security Group Rules](screenshots/3-security-group-rules.PNG)
 
 WordPress site confirms successful deployment:
 
-![WordPress Working Site](screenshots/4-wordpress-working-site.png)
+![WordPress Working Site](screenshots/4-wordpress-working-site.PNG)
 
 ## Issue encountered and fix
 
