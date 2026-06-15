@@ -57,7 +57,7 @@ terraform apply
 
 Terraform apply success shows successful provisioning:
 
-![Terraform Apply Success](screenshots/1-terraform-apply-success.PNG)
+![Terraform Apply](screenshots/1-terraform-apply.PNG)
 
 EC2 instance running confirms the server is active:
 
